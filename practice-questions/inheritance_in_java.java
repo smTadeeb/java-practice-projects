@@ -1,7 +1,6 @@
 class Rectangle
 {
-private int length;
-private int breadth;
+private int length, breadth;
 public void setLength(int length)
 {
 this.length=length;
@@ -19,6 +18,8 @@ public int getBreadth()
 return this.breadth;
 }
 }
+
+//Inheritance in java
 class Box extends Rectangle
 {
 private int height;
@@ -31,11 +32,21 @@ public int getHeight()
 return this.height;
 }
 }
+
+class box2 extends Box
+{
+// Method Overiding in Java
+public int getHeight()
+{
+return 888; 
+}
+}
+
 class inheritance_in_java
 {
 public static void main(String xx[])
 {
-Box b=new Box();
+box2 b=new box2();
 b.setLength(55);
 b.setBreadth(56);
 b.setHeight(60);
