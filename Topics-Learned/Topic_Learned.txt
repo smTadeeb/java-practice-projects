@@ -18,4 +18,10 @@
 17. final keyword with class
 18. super keyword with method
 19. super keyword with property
+20. static and non-static methods
+21. static and non-static properties
+22. local variable, class variable, object variable
+23. Rule of assignment for local variables
+24. final keyword with local variable
+25. Object class (supermost-class in java)
 
