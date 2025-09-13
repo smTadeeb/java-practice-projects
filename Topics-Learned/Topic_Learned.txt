@@ -1,0 +1,18 @@
+
+1. Compiler vs Interpreter
+2. Platform Dependent Programming Language
+3. Platform Independent Programming Language
+4. Primitive Datatypes in Java
+5. Complex datatype in java
+6. JDK,JRE, JVM understanding
+7. Pointer to an object in java
+8. this keyword
+9. Member access operator (dot operator)
+10. Polymorphism in java
+11. Access specifiers
+12. Encapsulation in java
+13. inheritance in java
+14. extends keyword 
+15. Why java doesnt support multiple inheritance.
+16. final keyword
+
