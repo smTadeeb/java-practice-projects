@@ -27,7 +27,7 @@ public void bark()
 System.out.println("Meow Meow");
 }
 }
-class understanding_final_keyword
+class understanding_final_keyword_with_method
 {
 public static void main(String g[])
 {
