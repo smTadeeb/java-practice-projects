@@ -24,4 +24,6 @@
 23. Rule of assignment for local variables
 24. final keyword with local variable
 25. Object class (supermost-class in java)
+26. contructors in java (default and parameterized)
+27. super() - constructor call statement
 
