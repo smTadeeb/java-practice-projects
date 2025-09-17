@@ -28,4 +28,7 @@
 27. Object class (supermost-class in java)
 28. contructors in java (default and parameterized)
 29. super() - constructor call statement
-
+30. this keyword for constructor calling/invoke
+31. non-static initializer block
+32. scope block
+33. static initializer block
