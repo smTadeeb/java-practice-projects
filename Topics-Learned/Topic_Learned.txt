@@ -32,3 +32,4 @@
 31. non-static initializer block
 32. scope block
 33. static initializer block
+34. Conditions when class is loaded in RAMX

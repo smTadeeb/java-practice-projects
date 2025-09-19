@@ -38,12 +38,14 @@ public static void main(String gg[])
 {
 System.out.println("________________________");
 aaa a;
+/*
 a=new aaa(); // aaa class loaded in RAM now
 System.out.println("-------------------------");
 aaa a2 = new aaa(55);
 System.out.println("-------------------------");
 aaa a3;
 a3=new aaa(22);
+*/
 }
 
 }
