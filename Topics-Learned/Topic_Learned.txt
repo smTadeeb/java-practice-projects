@@ -32,4 +32,7 @@
 31. non-static initializer block
 32. scope block
 33. static initializer block
-34. Conditions when class is loaded in RAMX
+34. Conditions when class is loaded in RAM.
+35. Default value for Object variable and class variable.
+36. final keyword with Object variables.
+37. 
