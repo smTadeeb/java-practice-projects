@@ -35,4 +35,5 @@
 34. Conditions when class is loaded in RAM.
 35. Default value for Object variable and class variable.
 36. final keyword with Object variables.
-37. 
+37. final keyword with Class variables.
+38.  
