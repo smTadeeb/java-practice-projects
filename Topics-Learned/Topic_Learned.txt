@@ -36,4 +36,6 @@
 35. Default value for Object variable and class variable.
 36. final keyword with Object variables.
 37. final keyword with Class variables.
-38.  
+38. Method lookup pattern in context to pointers.
+39. Early Binding Compile time Binding
+40. Late Binding or Run time binding 
