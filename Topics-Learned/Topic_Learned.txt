@@ -39,3 +39,5 @@
 38. Method lookup pattern in context to pointers.
 39. Early Binding Compile time Binding
 40. Late Binding or Run time binding 
+41. Abstract method and Abstract class
+42. Virtual Polymorphism
