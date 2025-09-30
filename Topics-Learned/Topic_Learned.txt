@@ -40,3 +40,5 @@
 40. Late Binding or Run time binding 
 41. Abstract method and Abstract class
 42. Virtual Polymorphism
+43. Why Java is Safe programming language.
+44. Array representation in java
