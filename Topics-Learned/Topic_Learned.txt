@@ -42,3 +42,5 @@
 42. Virtual Polymorphism
 43. Why Java is Safe programming language.
 44. Array representation in java
+45. Why Array is treated as Objects in Java & how we can resize them.
+46. Reference variable Arrays
