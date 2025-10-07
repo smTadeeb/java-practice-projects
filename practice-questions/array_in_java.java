@@ -12,7 +12,7 @@ x[2] = 55;
 x[3] = 22;
 x[4] = 69;
 
-x[55] = 85;
-x[-10] = 255;
+x[55] = 85;  // <-- it will give error out of bound
+x[-10] = 255; // <-- it will give error out of bound
 }
 }
