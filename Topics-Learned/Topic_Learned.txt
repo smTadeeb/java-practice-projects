@@ -44,3 +44,5 @@
 44. Array representation in java
 45. Why Array is treated as Objects in Java & how we can resize them.
 46. Reference variable Arrays
+47. String in java, (How jvm maintains a pool of String)
+48. Java is Strongly typed programming language (its reason)
