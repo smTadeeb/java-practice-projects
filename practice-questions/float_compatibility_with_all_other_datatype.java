@@ -1,4 +1,4 @@
-// Wont Works 
+//Works 
 class float_char_compatibility
 {
 public static void main(String gg[])
@@ -42,7 +42,7 @@ f=b;
 }
 }
 
-// Wont Works
+//Works
 class float_short_compatibility          
 {
 public static void main(String gg[])
@@ -53,7 +53,7 @@ f=s;
 }
 }
 
-// Wont Work
+//Work
 class float_int_compatibility          
 {
 public static void main(String gg[])
