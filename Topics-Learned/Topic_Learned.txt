@@ -44,6 +44,9 @@
 44. Array representation in java
 45. Why Array is treated as Objects in Java & how we can resize them.
 46. Reference variable Arrays
-47. String in java, (How jvm maintains a pool of String)
+47. String in java, (How jvm maintains a pool of String objects for optimization)
 48. Java is Strongly typed programming language (its reason)
 49. Promotion is implicit and Demotion is explicit in java.
+50. Shallow Comparison and Deep comparison in case of String's.
+51. .equals() and .equalsIgnoreCase() methods
+52.  
