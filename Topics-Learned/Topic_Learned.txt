@@ -49,4 +49,5 @@
 49. Promotion is implicit and Demotion is explicit in java.
 50. Shallow Comparison and Deep comparison in case of String's.
 51. .equals() and .equalsIgnoreCase() methods
-52.  
+52. Comparing String's using .compareTo() method and its return type nature
+53. 
