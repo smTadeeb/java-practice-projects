@@ -50,4 +50,5 @@
 50. Shallow Comparison and Deep comparison in case of String's.
 51. .equals() and .equalsIgnoreCase() methods
 52. Comparing String's using .compareTo() & .compareToIgnoreCase() method and its return type nature
-53. 
+53. interface in Java & its concepts, rules.
+54. 
