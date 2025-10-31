@@ -6,12 +6,15 @@ private char y;
 public void sheikh()
 {
 System.out.println("Sheikh saab");
+tadeeb(); //Correct // <-- We can access private member inside same class or custom datatype
 }
+
 private void tadeeb()
 {
 System.out.println("Kese ho");
 }
 }
+
 
 class fff extends bbbb
 {
@@ -29,6 +32,7 @@ public void sam();
 default public void tom()
 {
 System.out.println("Hii");
+sunny(); // Correct, We can access private member in same custom datatype.
 }
 
 // private void sunny();     //private abstract void sunny();  // <-- Both are wrong
@@ -39,3 +43,4 @@ System.out.println("This is sunny, bana lega money");
 }
 
 }
+
