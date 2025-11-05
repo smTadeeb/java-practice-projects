@@ -23,10 +23,30 @@ public String getName()
 return this.name;
 }
 
+/* Sol-1 which wont work for all cases
+
 public boolean equals(Employee other)
 {
 return this.id==other.id;
 }
+*/
+
+/* Sol-2) which will also not work for all the cases.
+
+public boolean equals(Object other)
+{
+Employee e=(Employee)other;
+return this.id==e.id;
+}
+*/
+
+public boolean equals(Object other)
+{
+
+Employee e=(Employee)other;
+return this.id==e.id;
+}
+
 
 }
 
