@@ -42,7 +42,7 @@ return this.id==e.id;
 
 public boolean equals(Object other)
 {
-
+if(!(other instanceof Employee)) return false;
 Employee e=(Employee)other;
 return this.id==e.id;
 }
@@ -87,7 +87,7 @@ else System.out.println("Different");
 
 System.out.printf("\n\n");
 
-System.out.println("Deep Comparison (Not used in projects): ");
+System.out.println("Deep Comparison (with custom equals method, Sol-1): ");
 if(e1.equals(e2)) System.out.println("Same");
 else System.out.println("Different"); 
 
