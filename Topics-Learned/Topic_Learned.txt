@@ -54,3 +54,4 @@
 54. generic type in Java.  
 55. 8 Wrapper Classes in Java
 56. Boxing and Unboxing
+57. equals method for custom class in java
